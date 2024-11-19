@@ -1,5 +1,5 @@
 # Modelo-conceitual-para-banco-de-dados-Servico-Oficina
-Modelo conceitual para banco de dados de uma Sistema de controle e gerenciamento de execução de Ordens de Serviço (O.S.) de uma oficina automobilística.
+Modelo conceitual para banco de dados de uma Sistema de controle e gerenciamento de execução de Ordens de Serviço (O.S.) de uma oficina automobilística. Utilizando MySQL para realizar a modelagem.
 
 OBJETIVO:
 Criação de um o modelo (esquema) conceitual para os serviços de oficina.
